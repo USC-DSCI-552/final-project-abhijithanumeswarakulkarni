@@ -23,8 +23,9 @@ MyDrive
                 .
 ```
 
-6. You can run the code from the ipynb file. (You can use pre-trained weights or train these models from scratch!)
+6. You can run the code from the ipynb file. {You can use pre-trained weights (present in meta folder [Click Me!](https://drive.google.com/drive/folders/1i0j1V4cx3_mRiGrGFn9FalY70pouA5Ds?usp=drive_link)) or train these models from scratch!}
 
 ## Note
 
 1. This project is entirely done on Google Colab enabled with GPU.
+2. Here is a link to my gdrive with data and meta data [Click Me!](https://drive.google.com/drive/folders/1nbsgdCxmVBWEHLTk49MsbHUl2iZFI8HK?usp=drive_link)
